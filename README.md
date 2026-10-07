@@ -1,3 +1,4 @@
+
 # QuickNotes
 
 QuickNotes is a lightweight, responsive web application that enables users to write, categorize, search, and manage quick everyday notes with instant persistence. Built entirely from scratch using semantic HTML5, modern CSS with Flexbox, and vanilla JavaScript DOM manipulation, the application organizes your thoughts into color-coded category cards and stores them securely inside your browser's localStorage so your notes are never lost across sessions.
@@ -16,4 +17,6 @@ QuickNotes is a lightweight, responsive web application that enables users to wr
 
 1. Clone this repository to your local computer:
    ```bash
-   git clone https://github.com/owenjuniour-max/quicknotes-app.git
+   git clone https://github.com/owenjuniour-max/quicknotes-
+   app.git
+Author: Owen
